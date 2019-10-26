@@ -1,0 +1,16 @@
+{
+"companyName": "NES",
+"productName": "Climework",
+"productVersion": "0.1",
+"dataUrl": "Climework.data.unityweb",
+"wasmCodeUrl": "Climework.wasm.code.unityweb",
+"wasmFrameworkUrl": "Climework.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#F5E4D5",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.12f1"
+}
